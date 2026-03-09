@@ -7,7 +7,7 @@ import { GoogleOAuthProvider, GoogleLogin } from '@react-oauth/google';
 import axios from 'axios';
 import { UserContext } from '../../UserContext.jsx';
 
-import mylogo from '../assets/logo.png';
+import mylogo from '../assets/Logo.png';
 
 function Login() {
     const [userInfo, setUserInfo] = useState(null);
