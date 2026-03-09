@@ -3,7 +3,7 @@ import React, { useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { UserContext } from '../../UserContext.jsx';
 
-import mylogo from '../assets/logo.png';
+import mylogo from '../assets/Logo.png';
 
 function Login() {
     const [username, setUsername] = useState('');
