@@ -60,7 +60,7 @@ function Login() {
     };
 
     return (
-        <GoogleOAuthProvider clientId="378941213967-7bab5ao20v0eu9scmduqijjt23o5se0v.apps.googleusercontent.com">
+        <GoogleOAuthProvider clientId="1084107507347-vvo6urvea6odotp80c2iur6remoookjs.apps.googleusercontent.com">
             <div>
                 <img src={mylogo} alt="App Logo" className='m-5' />
                 <div className="login-container">
